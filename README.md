@@ -1,1 +1,1 @@
-exos day7 from thp's formatiob
+exos day7 from thp's formation
